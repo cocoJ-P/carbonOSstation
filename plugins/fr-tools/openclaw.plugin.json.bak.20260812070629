@@ -20,21 +20,5 @@
         "default": 300000
       }
     }
-  },
-  "contracts": {
-    "tools": [
-      "system_control",
-      "display_control",
-      "system_settings",
-      "wifi_bluetooth_control",
-      "wallpaper_control",
-      "power_control",
-      "vlc_control",
-      "find",
-      "ls",
-      "cat",
-      "grep",
-      "sleep"
-    ]
   }
 }
